@@ -1,6 +1,9 @@
 # Computer Vision-Centric Drought Prediction Framework
 ## Pure CV Methodology for Pakistan Region - Talha
 
+### Dataset Link:
+https://drive.google.com/drive/folders/1GY4ALBzC18bjFFOD5E02fo_r6J-GPBHy?usp=sharing
+
 ### 📋 Project Overview
 This project implements a **Computer Vision-centric drought prediction system** using Landsat 8 and 9 satellite imagery. The system employs **pure CV methodology** with multi-temporal satellite image processing, spectral indices calculation, and pixel-wise classification to generate district-level drought risk maps.
 
